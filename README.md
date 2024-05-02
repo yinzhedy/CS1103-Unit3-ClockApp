@@ -19,5 +19,5 @@ This Java program demonstrates a simple multithreaded clock application. It prin
 - Java 8 or later.
 
 ## Example Output Screenshot
-![Clock Screenshot](images/output.png)
+![Clock Screenshot](images/Output.png)
 
